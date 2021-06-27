@@ -45,7 +45,7 @@ Remembering that you need to have a [Figma](http://figma.com/) account to access
 
 ## 💻 Link
 
-<p>You can access this application with this link <a href="https://letmeask-test.web.app/">Letmeask</a> </p>
+<p>You can access this application with this link <a href="https://letmeask-test.web.app/" target="_blank">Letmeask</a> </p>
 
 ---
 
